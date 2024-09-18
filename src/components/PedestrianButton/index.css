@@ -1,0 +1,16 @@
+.pedestrian-button{
+    background-color:rgb(0, 102, 255);
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    padding: 18px;
+    margin: 20px;
+    cursor: pointer
+    
+}
+.pedestrian-button:hover{
+    background-color:rgba(0, 102, 255, 0.619);
+}

@@ -1,0 +1,16 @@
+.emergency-button{
+    background-color:rgb(255, 0, 140);
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    padding: 18px;
+    margin: 20px;
+    cursor: pointer
+    
+}
+.emergency-button:hover {
+    background-color:rgba(255, 0, 140, 0.767);
+}
