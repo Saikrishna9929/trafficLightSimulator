@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/trafficLightSimulator/static/css/main.4c01e11b.chunk.css",
+    "main.js": "/trafficLightSimulator/static/js/main.b7b25cdc.chunk.js",
+    "main.js.map": "/trafficLightSimulator/static/js/main.b7b25cdc.chunk.js.map",
+    "runtime~main.js": "/trafficLightSimulator/static/js/runtime~main.17315206.js",
+    "runtime~main.js.map": "/trafficLightSimulator/static/js/runtime~main.17315206.js.map",
+    "static/js/2.ca150098.chunk.js": "/trafficLightSimulator/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/trafficLightSimulator/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/trafficLightSimulator/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/trafficLightSimulator/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/trafficLightSimulator/index.html",
+    "precache-manifest.8bd38424d061b48a93f203aba5681650.js": "/trafficLightSimulator/precache-manifest.8bd38424d061b48a93f203aba5681650.js",
+    "service-worker.js": "/trafficLightSimulator/service-worker.js",
+    "static/css/main.4c01e11b.chunk.css.map": "/trafficLightSimulator/static/css/main.4c01e11b.chunk.css.map"
+  }
+}
